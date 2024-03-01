@@ -1,10 +1,20 @@
-## Hey 👋, This is Sergey Sadchikov
-[![Gmail Badge](https://img.shields.io/badge/-sadchikovsg@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sadchikovsg@gmail.com)](mailto:sadchikovsg@gmail.com) [![Github Badge](https://img.shields.io/badge/-sadchikovsg-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sadchikovsg/)](https://www.github.com/sadchikovsg/) 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=sadchikovsg alt=sadchikovsg /> </p>
+### Hi there 👋, my name is Sergey Sadchikov
+#### I am ...
+![I am ...](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sadchikovsg&show_icons=true&include_all_commits=true)](https://github.com/sadchikovsg/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadchikovsg&layout=compact)](https://github.com/sadchikovsg/github-readme-stats)
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-![Profile views](https://gpvc.arturio.dev/[sadchikovsg])
+Skills: Linux Bash 
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sadchikovsg)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadchikovsg)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadchikovsg&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sadchikovsg)  
+
 
