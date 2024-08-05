@@ -15,7 +15,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a DevOps engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a DevOps engineer  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhwaXhza2FpNHE1ZmM3YXcyaG1ucXQ1MXIyeXU5dHJ4ejR3cHNkNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
