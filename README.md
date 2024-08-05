@@ -4,11 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=sadchikovsg&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-
-## Hi there 👋, my name is Sergey Sadchikov
 <h1>
-  hey there
+  Hi there 👋, my name is Sergey Sadchikov
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NueXd1cnFqZjM5Y24zN3I4dG1hOWppdjJkYnkwc3Ftb2N4YTJrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="30px"/>
 </h1>
 
