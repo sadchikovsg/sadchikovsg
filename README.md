@@ -23,7 +23,9 @@ I am a DevOps engineer :computer:.
 
 - :zap: In my free time I do pet projects and read technical articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sadchikovsg-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me:
+- [![Telegram Badge](https://img.shields.io/badge/-sadchikovsg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sadomehanik)
+- [![Linkedin Badge](https://img.shields.io/badge/-sadchikovsg-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
