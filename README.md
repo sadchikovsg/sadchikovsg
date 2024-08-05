@@ -16,11 +16,12 @@
 
 ### :man_technologist: About Me :
 I am a DevOps engineer :computer: from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I work as a DevOps engineer, I support the development, deployment of the product (I run it on a server, hosting) and test its performance, as well as support the environments where 
+  the embedded product is located.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time I do pet projects and read technical articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
