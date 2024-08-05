@@ -27,8 +27,6 @@ I am a DevOps engineer :computer: from Russia.
 
 ---
 
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 ---
