@@ -13,5 +13,9 @@
 </div>
 
 <div>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadchikovsg&theme=dark&hide_border=true)](https://git.io/streak-stats)</div>
+<div style="text-align: center;">
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadchikovsg&theme=dark&hide_border=true)
+
+</div>
 
