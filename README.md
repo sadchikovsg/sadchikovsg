@@ -25,5 +25,5 @@
 </div>
 
 <div id="header" align="center">
-  <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadchikovsg&layout=compact&theme=vision-friendly-dark" alt="GitHub Stats" /></a>
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadchikovsg&layout=compact&theme=codeSTACKr" alt="GitHub Stats" /></a>
 </div>
