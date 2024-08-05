@@ -16,8 +16,7 @@
 
 ### :man_technologist: About Me :
 I am a DevOps engineer :computer: from Russia.
-- :telescope: I work as a DevOps engineer, I support the development, deployment of the product (I run it on a server, hosting) and test its performance, as well as support the environments where 
-  the embedded product is located.
+- :telescope: I work as a DevOps engineer, support the development, deployment of the product (I run it on a server, hosting) and test its performance, as well as support the environments where the embedded product is located.
 
 - :seedling: Exploring Technical Content Writing.
 
