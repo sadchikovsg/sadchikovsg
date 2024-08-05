@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=sadchikovsg&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
+<h1 id="header" align="center">
   Hi there 👋, my name is Sergey Sadchikov
 </h1>
 
