@@ -12,5 +12,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NueXd1cnFqZjM5Y24zN3I4dG1hOWppdjJkYnkwc3Ftb2N4YTJrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"/>
 </div>
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sadchikovsg&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-
+<div id="header" align="center">
+  <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sadchikovsg&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+</div>
