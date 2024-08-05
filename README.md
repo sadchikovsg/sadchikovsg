@@ -12,6 +12,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NueXd1cnFqZjM5Y24zN3I4dG1hOWppdjJkYnkwc3Ftb2N4YTJrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif"/>
 </div>
 
-<a href="https://github-readme-streak-stats.herokuapp.com?user=sadchikovsg&theme=dark&hide_border=true"><p style="text-align:center"></a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadchikovsg&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadchikovsg&theme=dark&hide_border=true)](https://git.io/streak-stats)</div>
+
 
