@@ -15,3 +15,9 @@
 <div id="header" align="center">
   <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sadchikovsg&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
+
+<div id="header" align="center">
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username" alt="GitHub Stats" /></a>
+</div>
+
+[![Top Langs]()]()
