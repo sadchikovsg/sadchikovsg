@@ -23,10 +23,13 @@ I'm a DevOps Engineer :computer:.
 
 - :zap: In my free time I do pet projects and read technical articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-sadchikovsg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sadomehanik) [![Linkedin Badge](https://img.shields.io/badge/-sadchikovsg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-sadchikov-298a17321/)
+- :mailbox:How to reach me: [![Email-badge](https://img.shields.io/badge/-sadchikovsg-blue?style=flat&logo=Gmail&logoColor=white)](sadchikovsg@gmail.com)
 
 ---
+### :calling: Connect with me: 
+[![Telegram Badge](https://img.shields.io/badge/-sadchikovsg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sadomehanik) [![Linkedin Badge](https://img.shields.io/badge/-sadchikovsg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-sadchikov-298a17321/)
 
+---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
