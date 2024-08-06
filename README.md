@@ -27,7 +27,7 @@ I'm a DevOps Engineer :computer:.
 
 ---
 ### :calling: Connect with me: 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sadomehanik) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-sadchikov-298a17321/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sadomehanik) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-sadchikov)
 [![HabrCareer Badge](https://img.shields.io/badge/-HabrCareer-blue?style=flat&logo=Habr&logoColor=white)](https://career.habr.com/sadchikovsg)
 
 ---
