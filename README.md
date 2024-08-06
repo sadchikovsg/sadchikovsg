@@ -23,7 +23,7 @@ I'm a DevOps Engineer :computer:.
 
 - :zap: In my free time I do pet projects and read technical articles.
 
-- :mailbox:How to reach me: [![Email-badge](https://img.shields.io/badge/-sadchikovsg-blue?style=flat&logo=Gmail&logoColor=white)](<a href= "mailto: sadchikovsg@gmail.com"> name@email.com </a>)
+- :mailbox:How to reach me: <a href= "mailto: sadchikovsg@gmail.com"> sadchikovsg@gmail.com </a>
 
 ---
 ### :calling: Connect with me: 
