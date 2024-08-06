@@ -25,7 +25,7 @@ I'm a DevOps Engineer :computer:.
 
 - :mailbox:How to reach me:
     - [![Telegram Badge](https://img.shields.io/badge/-sadchikovsg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sadomehanik)
-    - [![Linkedin Badge](https://img.shields.io/badge/-sadchikovsg-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+    - [![Linkedin Badge](https://img.shields.io/badge/-sadchikovsg-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-sadchikov-298a17321/)
 
 ---
 
