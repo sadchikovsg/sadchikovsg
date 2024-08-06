@@ -71,7 +71,7 @@ I'm a DevOps Engineer :computer:.
 </div>
 
 ---
-### :fire: My Stats :
+### :bar_chart: My Stats :
 
 <div id="header" align="center">
   <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sadchikovsg&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
