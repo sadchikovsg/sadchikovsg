@@ -78,7 +78,7 @@ I'm a DevOps Engineer :computer:.
 ### :bar_chart: My Stats :
 
 <div id="header" align="center">
-  <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sadchikovsg&theme=codeSTACKr&hide_border=true" alt="GitHub Streak" /></a>
+  <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sadchikovsg&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sadchikovsg&show_icons=true&theme=codeSTACKr" alt="GitHub Stats" /></a>
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadchikovsg&layout=compact&theme=codeSTACKr" alt="GitHub Stats" /></a>
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sadchikovsg&repo=nvim&layout=compact&theme=codeSTACKr" alt="GitHub Stats" /></a>
