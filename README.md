@@ -18,7 +18,6 @@
 I'm a DevOps Engineer :computer:.
 - :telescope: I work as a DevOps engineer, support the development, deployment of the product (I run it on a server, hosting) and test its performance, as well as support the environments where the embedded product is located.
               
-
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time I do pet projects and read technical articles.
